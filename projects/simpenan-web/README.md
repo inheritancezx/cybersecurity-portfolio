@@ -7,7 +7,7 @@ Build a full-stack web platform that demonstrates end-to-end secure data handlin
 
 ## My role
 I led the development of the core project concept and framework, and oversaw the security flow across the web features. I also contributed to the core security implementation, including hybrid RSA/AES key sharing, server-side file authorization, and PDF signing. I also developed key validation workflows in Livewire, added ID-card handling to registration, and implemented account, file-type, dashboard, and download interface improvements.
-The main repository belongs to my teammate `rajariandhana` which i forked to my public repository; the real repository remained private until now and is connected to the github classroom of the related course.
+The current repository displayed belongs to my teammate `rajariandhana` which i forked to my public repository, this repository is a secondary repo which may have the bigger picture but not the actual final code; the real repository remained private until now and is connected to the github classroom of the related course.
 
 ## Environment and tools
 - Framework: Laravel 11 (PHP), Livewire, Tailwind CSS
